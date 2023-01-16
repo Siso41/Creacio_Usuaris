@@ -57,4 +57,8 @@ Seria fer aquest procediment amb tots els cursos:
 
 ![image](https://user-images.githubusercontent.com/114423111/212741676-37660952-98a0-4dd6-99a6-2fc075ca42e5.png)
 
+## Activitat 10
 
+Usuaris MP08:
+
+![image](https://user-images.githubusercontent.com/114423111/212742024-f242ab27-0d7e-4c74-ab60-a93301a76f69.png)
