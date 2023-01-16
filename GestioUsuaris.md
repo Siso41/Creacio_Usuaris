@@ -34,3 +34,15 @@ I després el pujem al moodle:
 
 ![image](https://user-images.githubusercontent.com/114423111/208491186-1d650e71-d766-4575-86d6-6e8ccc1dfc19.png)
 
+
+# A continuació faré l'activitat amb el moodle d'un company, ja que vaig pedre la meva màquina.
+
+## Activitats 6,7 i 8 (Exemples algun cursos).
+
+MP10
+![image](https://user-images.githubusercontent.com/114423111/212739715-80d6edd1-3173-47ba-9910-fc012081d136.png)
+
+MP08
+![image](https://user-images.githubusercontent.com/114423111/212740301-d7609413-5d88-4d54-8457-f84b24792ae6.png)
+
+
