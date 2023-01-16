@@ -62,3 +62,14 @@ Seria fer aquest procediment amb tots els cursos:
 Usuaris MP08:
 
 ![image](https://user-images.githubusercontent.com/114423111/212742024-f242ab27-0d7e-4c74-ab60-a93301a76f69.png)
+
+## Activitat 11 i 12
+
+Els cohorts son una mena de grup d'usuaris específics. Per exemple si tres profesors que forment part d'una cohort podem afegir-los a un curs de forma ràpida si afegim la cohort al curs.
+
+## Activitat 13 i 14
+
+Els grups a Moodle són entesos com una agrupació de diversos estudiants inscrits en un mateix curs. L'opció Grups permet la creació i la gestió de grups de treball dins d'un mateix curs.
+
+## Activitat 15
+
