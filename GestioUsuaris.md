@@ -40,9 +40,21 @@ I després el pujem al moodle:
 ## Activitats 6,7 i 8 (Exemples algun cursos).
 
 MP10
+
 ![image](https://user-images.githubusercontent.com/114423111/212739715-80d6edd1-3173-47ba-9910-fc012081d136.png)
 
-MP08
-![image](https://user-images.githubusercontent.com/114423111/212740301-d7609413-5d88-4d54-8457-f84b24792ae6.png)
+MP04
+
+![image](https://user-images.githubusercontent.com/114423111/212740684-49c868f3-6885-4b0c-a0c0-b23a985506ef.png)
+
+Tutoria:
+
+![image](https://user-images.githubusercontent.com/114423111/212740976-c3e6d8c7-2204-4ca8-b067-d9bf50cd67f3.png)
+
+## Activitat 9
+
+Seria fer aquest procediment amb tots els cursos:
+
+![image](https://user-images.githubusercontent.com/114423111/212741676-37660952-98a0-4dd6-99a6-2fc075ca42e5.png)
 
 
